@@ -1,6 +1,7 @@
-<p align="center">درود 👋<p/>
+<h1 align="center">درود 👋</h1>
 
-##
+<br>
+
 <p align="center"><b>بنده محمد مبین رضایی هستم</b></p>
 <p align="center">برنامه نویس وب 💻 | حوضه فرانت اند 👨‍💻</p>
 
