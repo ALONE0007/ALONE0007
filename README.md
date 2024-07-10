@@ -1,5 +1,5 @@
 Hey I'M Mobin 👋
-## <h4>My Social Media<h4/>
+## <h2>My Social Media<h2/>
 
 <a href="https://t.me/ALONE_MOBIN">
 <img src="https://github.com/ALONE0007/ALONE0007/blob/main/telegram-logo.png?raw=true">  
@@ -9,7 +9,8 @@ Hey I'M Mobin 👋
 <img src="https://github.com/ALONE0007/ALONE0007/blob/main/instagram-logo.png?raw=true">  
 <a/>
 
-## <h4>The tools I use<h4/>
+
+## <h2>The tools I use<h2/>
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
